@@ -30,3 +30,10 @@
     transform: rotate(360deg);
   }
 }
+
+.list_stuff{
+font-size: 22px;
+width: 400px;
+margin-left: auto;
+margin-right: 5%;
+}
